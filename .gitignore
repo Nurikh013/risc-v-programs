@@ -1,0 +1,12 @@
+# Local simulator and generated files
+*.jar
+*.class
+*.dump
+*.log
+__pycache__/
+.venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
